@@ -1,2 +1,1 @@
-# noteful-error
-Noteful with Error Boundaries
+# Noteful Client
